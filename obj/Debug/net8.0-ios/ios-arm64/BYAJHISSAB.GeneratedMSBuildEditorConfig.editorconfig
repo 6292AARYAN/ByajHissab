@@ -1,0 +1,137 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BYAJHISSAB
+build_property.ProjectDir = E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/Borrowed.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Borrowed.xaml
+build_metadata.AdditionalFiles.TargetPath = Borrowed.xaml
+build_metadata.AdditionalFiles.RelativePath = Borrowed.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/ChooseCustomer.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.ChooseCustomer.xaml
+build_metadata.AdditionalFiles.TargetPath = ChooseCustomer.xaml
+build_metadata.AdditionalFiles.RelativePath = ChooseCustomer.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/ContactList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.ContactList.xaml
+build_metadata.AdditionalFiles.TargetPath = ContactList.xaml
+build_metadata.AdditionalFiles.RelativePath = ContactList.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/Emi.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Emi.xaml
+build_metadata.AdditionalFiles.TargetPath = Emi.xaml
+build_metadata.AdditionalFiles.RelativePath = Emi.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/ForgotPasswordPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ForgotPasswordPage.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/Lent.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Lent.xaml
+build_metadata.AdditionalFiles.TargetPath = Lent.xaml
+build_metadata.AdditionalFiles.RelativePath = Lent.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/LoanType.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.LoanType.xaml
+build_metadata.AdditionalFiles.TargetPath = LoanType.xaml
+build_metadata.AdditionalFiles.RelativePath = LoanType.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.login.xaml
+build_metadata.AdditionalFiles.TargetPath = login.xaml
+build_metadata.AdditionalFiles.RelativePath = login.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/LoginPassword.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.LoginPassword.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPassword.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPassword.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/MainPopup.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.MainPopup.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPopup.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPopup.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/Menual.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Menual.xaml
+build_metadata.AdditionalFiles.TargetPath = Menual.xaml
+build_metadata.AdditionalFiles.RelativePath = Menual.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/OTP.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.OTP.xaml
+build_metadata.AdditionalFiles.TargetPath = OTP.xaml
+build_metadata.AdditionalFiles.RelativePath = OTP.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/Peaple.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Peaple.xaml
+build_metadata.AdditionalFiles.TargetPath = Peaple.xaml
+build_metadata.AdditionalFiles.RelativePath = Peaple.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[E:/PERSONAL FIELS/KHATA-BOOK/App/27-10-2024 Update/BYAJHISSAB/BYAJHISSAB/BYAJHISSAB/Signup.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Signup.xaml
+build_metadata.AdditionalFiles.TargetPath = Signup.xaml
+build_metadata.AdditionalFiles.RelativePath = Signup.xaml

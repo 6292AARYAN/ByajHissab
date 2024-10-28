@@ -1,0 +1,4 @@
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\publish\byajhissab.byajhissab-Signed.aab
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\publish\byajhissab.byajhissab.aab
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\publish\byajhissab.byajhissab-Signed.apk
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\publish\_Microsoft.Android.Resource.Designer.dll

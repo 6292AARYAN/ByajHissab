@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BYAJHISSAB.ContactList"
+             xmlns:fa="http://schemas.fontawesome.io/icons/" 
+             Title="Contact List" Shell.NavBarIsVisible="True" Shell.BackgroundColor="AliceBlue">
+
+    <StackLayout Padding="0">
+        <!-- A ListView to display contact names and phone numbers -->
+        <Frame Padding="10" CornerRadius="5"  VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="AliceBlue">
+
+            <ListView x:Name="ContactListView"
+                  ItemsSource="{Binding Contacts}"  
+            HasUnevenRows="True"
+                  VerticalOptions="FillAndExpand" ItemTapped="OnItemTapped">
+
+                <!-- Define how each item (contact) will be displayed -->
+                <ListView.ItemTemplate>
+
+                    <DataTemplate>
+
+                        <ViewCell>
+                            <Frame CornerRadius="10" Padding="10" Margin="0,10,0,0" BackgroundColor="#fff" BorderColor="#fff">
+                                <StackLayout Orientation="Horizontal" Spacing="15">
+
+                                    <!-- Profile Image -->
+                                    <Image Source="user.png"
+                                       HeightRequest="60"
+                                       WidthRequest="60"
+                                       Aspect="AspectFill"
+                                       VerticalOptions="Center"
+                                       HorizontalOptions="Start"
+                                       Clip="Ellipse" />
+
+                                    <!-- Customer Details -->
+                                    <StackLayout VerticalOptions="Center" Spacing="5">
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="20"/>
+                                            </Grid.RowDefinitions>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="130"/>
+                                                <ColumnDefinition Width="*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Label Grid.Row="0" Grid.Column="0" Text="{Binding Name}" FontSize="Medium" TextColor="#000" FontAttributes="Bold" />
+                                            <StackLayout Grid.Row="0" Grid.Column="1" Orientation="Horizontal" VerticalOptions="Center">
+                                                
+                                                <Label Text="&#xf095;" FontFamily="FontAwesome" FontSize="18" TextColor="#000" VerticalTextAlignment="Center"/>
+                                                <Label Text="{Binding PhoneNumber}" FontSize="18" TextColor="#000" VerticalTextAlignment="Center" FontAttributes="Bold" />
+                                            </StackLayout>
+                                        </Grid>
+                                    </StackLayout>
+                                </StackLayout>
+                            </Frame>
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+        </Frame>
+    </StackLayout>
+</ContentPage>

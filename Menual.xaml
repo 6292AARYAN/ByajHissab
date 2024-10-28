@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BYAJHISSAB.Menual"
+             Title="Menual">
+    <Grid BackgroundColor="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="350"/>
+        </Grid.RowDefinitions>
+
+        <Grid RowSpacing="5" Grid.Row="1" Margin="20,0,20,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="1" Text="Enter Menual" HorizontalOptions="FillAndExpand" FontSize="26" FontAttributes="Bold" Padding="0"/>
+            <StackLayout Grid.Row="2" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                <Frame BackgroundColor="Transparent" BorderColor="Black" Padding="0" Margin="0,10,0,0" HorizontalOptions="FillAndExpand" CornerRadius="5">
+                    <StackLayout Orientation="Horizontal">
+
+                        <Entry Placeholder="Full Name" PlaceholderColor="Black" TextColor="Black" FontAttributes="Bold" VerticalOptions="FillAndExpand" Margin="5"/>
+                    </StackLayout>
+                </Frame>
+
+                 <Frame BackgroundColor="Transparent" BorderColor="Black" Padding="0" Margin="0,10,0,0" HorizontalOptions="FillAndExpand" CornerRadius="5">
+                    <StackLayout Orientation="Horizontal">
+
+                        <Entry Placeholder="Mobile no" TextColor="Black" PlaceholderColor="Black" FontAttributes="Bold" VerticalOptions="FillAndExpand" Margin="0"/>
+                    </StackLayout>
+                </Frame>
+                <Frame BackgroundColor="Transparent" BorderColor="Black" Padding="0" Margin="0,10,0,0" HorizontalOptions="FillAndExpand" CornerRadius="5">
+                    <StackLayout Orientation="Horizontal">
+
+                        <Entry Placeholder="Address" TextColor="Black" PlaceholderColor="Black" FontAttributes="Bold" VerticalOptions="FillAndExpand" Margin="0"/>
+                    </StackLayout>
+                </Frame>
+                <Button Text="Submit" FontSize="18" BackgroundColor="#0e79e3" TextColor="White" FontAttributes="Bold" CornerRadius="20" WidthRequest="300" Margin="0,15,0,0" Clicked="Button_Clicked" />
+
+            </StackLayout>
+
+        </Grid>
+    </Grid>
+</ContentPage>

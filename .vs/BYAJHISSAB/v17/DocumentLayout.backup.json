@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8B8EEF-866A-4D07-87A5-9FCFFEF546FA}|BYAJHISSAB.csproj|e:\\personal fiels\\khata-book\\app\\27-10-2024 update\\byajhissab\\byajhissab\\byajhissab\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD8B8EEF-866A-4D07-87A5-9FCFFEF546FA}|BYAJHISSAB.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8B8EEF-866A-4D07-87A5-9FCFFEF546FA}|BYAJHISSAB.csproj|e:\\personal fiels\\khata-book\\app\\27-10-2024 update\\byajhissab\\byajhissab\\byajhissab\\menual.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD8B8EEF-866A-4D07-87A5-9FCFFEF546FA}|BYAJHISSAB.csproj|solutionrelative:menual.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8B8EEF-866A-4D07-87A5-9FCFFEF546FA}|BYAJHISSAB.csproj|e:\\personal fiels\\khata-book\\app\\27-10-2024 update\\byajhissab\\byajhissab\\byajhissab\\loantype.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD8B8EEF-866A-4D07-87A5-9FCFFEF546FA}|BYAJHISSAB.csproj|solutionrelative:loantype.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8B8EEF-866A-4D07-87A5-9FCFFEF546FA}|BYAJHISSAB.csproj|e:\\personal fiels\\khata-book\\app\\27-10-2024 update\\byajhissab\\byajhissab\\byajhissab\\choosecustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD8B8EEF-866A-4D07-87A5-9FCFFEF546FA}|BYAJHISSAB.csproj|solutionrelative:choosecustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8B8EEF-866A-4D07-87A5-9FCFFEF546FA}|BYAJHISSAB.csproj|e:\\personal fiels\\khata-book\\app\\27-10-2024 update\\byajhissab\\byajhissab\\byajhissab\\mainpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD8B8EEF-866A-4D07-87A5-9FCFFEF546FA}|BYAJHISSAB.csproj|solutionrelative:mainpopup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 336,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menual.xaml",
+              "DocumentMoniker": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\Menual.xaml",
+              "RelativeDocumentMoniker": "Menual.xaml",
+              "ToolTip": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\Menual.xaml",
+              "RelativeToolTip": "Menual.xaml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T21:42:22.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChooseCustomer.xaml",
+              "DocumentMoniker": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\ChooseCustomer.xaml",
+              "RelativeDocumentMoniker": "ChooseCustomer.xaml",
+              "ToolTip": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\ChooseCustomer.xaml",
+              "RelativeToolTip": "ChooseCustomer.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T21:01:58.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanType.xaml",
+              "DocumentMoniker": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\LoanType.xaml",
+              "RelativeDocumentMoniker": "LoanType.xaml",
+              "ToolTip": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\LoanType.xaml",
+              "RelativeToolTip": "LoanType.xaml",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowFsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T20:58:45.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPopup.xaml",
+              "DocumentMoniker": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\MainPopup.xaml",
+              "RelativeDocumentMoniker": "MainPopup.xaml",
+              "ToolTip": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\MainPopup.xaml",
+              "RelativeToolTip": "MainPopup.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T20:50:31.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "E:\\PERSONAL FIELS\\KHATA-BOOK\\App\\27-10-2024 Update\\BYAJHISSAB\\BYAJHISSAB\\BYAJHISSAB\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAowIwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T07:23:30.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

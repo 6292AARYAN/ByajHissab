@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BYAJHISSAB.ChooseCustomer"
+             Title="Choose Customer" Shell.NavBarIsVisible="True" Shell.BackgroundColor="AliceBlue">
+
+    <StackLayout Padding="0,90" >
+
+        
+        <Frame Padding="50" CornerRadius="10" BorderColor="#fff"  VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="AliceBlue">
+
+            <Grid HorizontalOptions="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <!-- Button 1: From Contact -->
+                <Button Grid.Row="0"
+                    Text="From Contact"
+                    TextColor="White"
+                        FontSize="20"
+                    FontAttributes="Bold"
+                    BackgroundColor="#2b0098"
+                    CornerRadius="10"
+                    Padding="0, 30"
+                    WidthRequest="200"
+                    ImageSource="Images/book.png"
+                    ContentLayout="Top, 10" Clicked="Button_Clicked" />
+
+                <!-- Button 2: Enter Manual -->
+                <Button Grid.Row="1"
+                    Text="Enter Manual"
+                    TextColor="White"
+                        FontSize="20"
+                    FontAttributes="Bold"
+                    BackgroundColor="#2b0098"
+                    CornerRadius="10"
+                    Padding="0, 30"
+                    WidthRequest="200"
+                    ImageSource="Images/menual.png"
+                    ContentLayout="Top, 10"
+                    Margin="0,20,0,0" Clicked="Button_Clicked_1" />
+                
+              
+            </Grid>
+        </Frame>
+    </StackLayout>
+
+    
+
+   
+
+</ContentPage>

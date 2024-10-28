@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\user.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\topimage.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\lock.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\clock_icon.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\addfile.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\phone.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\contact.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\alarm.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\menual.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\dotnet_bot.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\arrowdown.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\topbackgroud.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\download.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\camera.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\search_icon.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\email.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\avatar.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\home.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\bg.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\information.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\arrowup.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\plusicon.png" />
+    <BundleResource Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\book.png" />
+  </ItemGroup>
+</Project>

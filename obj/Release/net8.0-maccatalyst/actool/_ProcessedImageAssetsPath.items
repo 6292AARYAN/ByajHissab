@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logoItunesArtwork.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logo83.5x83.5@2x.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logo76x76@2x.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logo60x60@3x.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logo60x60@2x.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logo40x40@3x.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logo40x40@2x.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logo29x29@3x.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logo29x29@2x.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logo20x20@3x.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\logo20x20@2x.png" />
+    <ImageAsset Include="E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-maccatalyst\resizetizer\r\Assets.xcassets\logo.appiconset\Contents.json" />
+  </ItemGroup>
+</Project>

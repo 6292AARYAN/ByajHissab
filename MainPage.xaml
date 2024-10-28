@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BYAJHISSAB.MainPage" 
+             Title="Home"
+             Shell.FlyoutBehavior="Disabled">
+
+
+    <ScrollView>
+
+        <VerticalStackLayout Padding="0">
+            <Border Stroke="#2b0098"
+        StrokeThickness="0" 
+        StrokeShape="RoundRectangle 0,0,20,20"
+        Background="#2b0098"
+        Padding="0"
+        HorizontalOptions="Fill" VerticalOptions="Fill">
+                <VerticalStackLayout HorizontalOptions="CenterAndExpand" Padding="0">
+                    <Frame BackgroundColor="White" IsClippedToBounds="True" HeightRequest="70" WidthRequest="70" CornerRadius="100" Padding="10" Margin="0,20,0,0">
+                        <Image Source="Images/User.png" Aspect="AspectFill" />
+                    </Frame>
+                    <!-- User Name -->
+                    <Label Text="Aaryan Khowal" FontAttributes="Bold" FontSize="20" TextColor="White" HorizontalTextAlignment="Center" Margin="10,5,10,5" />
+                    <!-- Total Outstanding -->
+                    <Frame BackgroundColor="#ffffff" CornerRadius="10" Padding="20" Margin="0,10,0,20" HorizontalOptions="Center">
+                        <Label Text="Total Outstanding : 100000" FontSize="18" TextColor="Black" HorizontalTextAlignment="Center" Margin="0,0,0,5"></Label>
+                    </Frame>
+                </VerticalStackLayout>
+
+            </Border>
+
+
+            <!-- Financial Details -->
+            <Grid Padding="10" Margin="0,0,0,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Frame BackgroundColor="#e6f3fb" CornerRadius="10" Padding="20">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Label Text="People Owe" TextColor="#000104" FontAttributes="Bold" Grid.Row="0" FontSize="16" />
+                        <Label Text="Rs. 1000.00" TextColor="Green" FontAttributes="Bold" Grid.Row="0" HorizontalOptions="End" FontSize="18" />
+
+                        <Label Text="You Owe"  TextColor="#000104" FontAttributes="Bold" Grid.Row="1" Margin="0,10" FontSize="16" />
+                        <Label Text="Rs. 1000.00" FontAttributes="Bold" TextColor="Red" Grid.Row="1" Margin="0,10" HorizontalOptions="End" FontSize="18" />
+                    </Grid>
+                </Frame>
+            </Grid>
+
+            <!-- Search Bar -->
+            <Frame BackgroundColor="White" BorderColor="#c5d3de" CornerRadius="10" Padding="0" Margin="10,0,10,0">
+                <Grid Padding="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Entry Placeholder="Search" TextColor="Black" PlaceholderColor="Black" FontSize="16" Grid.Column="0" />
+                    <Image Source="Images/search_icon.png" Grid.Column="1" WidthRequest="50" HeightRequest="25" VerticalOptions="Center" />
+                </Grid>
+            </Frame>
+
+            <!-- Button Section -->
+            <!-- Button Section -->
+            <Grid Padding="0" Margin="5,2,10,5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Reminders Button -->
+                <Button Text="Reminders" Margin="5,5,5,0" Grid.Row="0" Grid.Column="0" BackgroundColor="#2b0098" TextColor="White" CornerRadius="10" FontSize="18" FontAttributes="Bold" HeightRequest="60"/>
+
+                <!-- Report Button -->
+                <Button Text="Report" Grid.Row="0" Grid.Column="1" BackgroundColor="#2b0098" TextColor="White" CornerRadius="10" FontSize="18" FontAttributes="Bold" HeightRequest="60"/>
+
+            </Grid>
+            <!-- Button Section -->
+            <!-- Button Section -->
+            <Grid Padding="0" Margin="10,0,10,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button Text="Over Due Loans" Grid.Row="0" Grid.Column="1" BackgroundColor="#2b0098" TextColor="White" CornerRadius="10" FontSize="18" FontAttributes="Bold" HeightRequest="60"/>
+
+            </Grid>
+            <Grid Padding="0" Margin="10,5,10,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button Text="Collateral Over Due" Grid.Row="0" Grid.Column="1" BackgroundColor="#2b0098" TextColor="White" CornerRadius="10" FontSize="18" FontAttributes="Bold" HeightRequest="60"/>
+
+            </Grid>
+            <!-- Due Loans Section -->
+            <Frame BackgroundColor="#e6f3fb" CornerRadius="10" Padding="10" Margin="10,15">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="300"/>
+                        <ColumnDefinition Width="400"/>
+                        <ColumnDefinition Width="300"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+
+                    </Grid.ColumnDefinitions>
+                    <Image Source="Images/clock_icon.png" Margin="0" HeightRequest="80" WidthRequest="80" Grid.Row="0"
+                       Grid.Column="0" Grid.RowSpan="3" VerticalOptions="Center" />
+                    <VerticalStackLayout Grid.Row="0" Grid.Column="1"  Padding="10,30,0,0">
+                        <Label Text="Due Loans Today" FontAttributes="Bold" FontSize="22" TextColor="#42b0a7" />
+                        <Label Text="No Due Loans Today" FontSize="22" FontAttributes="Bold" TextColor="#ecc367" />
+                    </VerticalStackLayout>
+
+                    <Frame CornerRadius="30" Padding="10" HeightRequest="60" WidthRequest="60" Margin="10,0,20,0" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"
+HorizontalOptions="EndAndExpand" VerticalOptions="End">
+                        <ImageButton Source="Images/plusicon.png" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="30" WidthRequest="30" Clicked="ImageButton_Clicked"></ImageButton>
+                    </Frame>
+
+                </Grid>
+               
+                
+            </Frame>
+           
+        </VerticalStackLayout>
+
+       
+
+    </ScrollView>
+
+</ContentPage>

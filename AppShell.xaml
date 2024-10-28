@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="BYAJHISSAB.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:BYAJHISSAB"
+    Shell.FlyoutBehavior="Flyout"
+    Title="BYAJHISSAB" Shell.TabBarBackgroundColor="#2b0098" 
+    Shell.TabBarUnselectedColor="White"
+    Shell.TabBarForegroundColor="White">
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems" >
+        <ShellContent Title="Home" ContentTemplate="{DataTemplate local:MainPage}"
+    Route="MainPage"
+    Icon="Images/home.png" />
+        <ShellContent Title="Borrowed" ContentTemplate="{DataTemplate local:Borrowed}"
+Route="Borrowed"
+Icon="Images/arrowdown.png"/>
+            <ShellContent Title="Lent" ContentTemplate="{DataTemplate local:Lent}"
+    Route="Lent"
+    Icon="Images/arrowup.png"/>
+        <ShellContent Title="Peaple" ContentTemplate="{DataTemplate local:ContactList}"
+           Route="ContactList"
+           Icon="Images/user.png"/>
+
+        <ShellContent Title="Choose Customer" IsVisible="False"  ContentTemplate="{DataTemplate local:ChooseCustomer}"
+Route="ChooseCustomer"
+Icon="Images/arrowup.png"/>
+        <ShellContent Title="ContactList" IsVisible="False" ContentTemplate="{DataTemplate local:ContactList}"
+Route="ContactList"
+Icon="Images/arrowup.png"/>
+        <ShellContent Title="Menual" IsVisible="False"  ContentTemplate="{DataTemplate local:Menual}"
+Route="Menual"
+Icon="Images/arrowup.png"/>
+
+    </FlyoutItem>
+  
+</Shell>

@@ -1,0 +1,969 @@
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\BYAJHISSAB.runtimeconfig.json
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\BYAJHISSAB.dll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\BYAJHISSAB.pdb
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\byajhissab.byajhissab.apk
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\byajhissab.byajhissab.aab
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\byajhissab.byajhissab-Signed.aab
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\byajhissab.byajhissab-Signed.apk
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\byajhissab.byajhissab-Signed.apk.idsig
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\build.props
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\adb.props
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\_CompileBindingJava.FileList.txt
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.csproj.AssemblyReference.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauiimage.inputs
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauifont.inputs
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauisplash.inputs
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\sp\drawable-v31\maui_splash_image.xml
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\sp\drawable\logo.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\sp\drawable\maui_splash_image.xml
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\sp\values\maui_colors.xml
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauisplash.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauifont.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\f\OpenSans-Regular.ttf
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\f\OpenSans-Semibold.ttf
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\addfile.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\alarm.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\arrowdown.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\arrowup.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\avatar.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\bg.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\clock_icon.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\contact.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\dotnet_bot.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\download.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\email.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\home.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\information.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\lock.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\menual.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\phone.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\plus_icon.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\search_icon.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\topbackgroud.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\topimage.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\user.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-anydpi-v26\logo.xml
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-anydpi-v26\logo_round.xml
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-hdpi\logo.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-hdpi\logo_background.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-hdpi\logo_foreground.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-hdpi\logo_round.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-mdpi\logo.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-mdpi\logo_background.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-mdpi\logo_foreground.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-mdpi\logo_round.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xhdpi\logo.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xhdpi\logo_background.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xhdpi\logo_foreground.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xhdpi\logo_round.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxhdpi\logo.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxhdpi\logo_background.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxhdpi\logo_foreground.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxhdpi\logo_round.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxxhdpi\logo.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxxhdpi\logo_background.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxxhdpi\logo_foreground.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxxhdpi\logo_round.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauiimage.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauiimage.outputs
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\libraryprojectimports.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_BuildLibraryImportsCache.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\case_map.txt
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\__Microsoft.Android.Resource.Designer.cs
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\res.flag
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\C4D2D85887AD60AD-files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\92BCC98D968E7FAB-files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\93\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\94\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\95\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\96\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\97\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\99\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\100\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\103\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\104\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\105\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\106\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\107\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\108\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\110\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\111\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\112\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\113\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\116\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\118\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\119\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\122\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\123\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\125\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\127\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\128\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\129\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\130\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\131\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\132\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\133\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\134\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\135\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\136\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\137\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\138\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\139\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\140\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\141\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\142\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\143\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\144\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\145\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\146\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\147\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\148\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\150\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\152\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\155\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\156\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\157\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\158\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\159\jl\files.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\_Microsoft.Android.Resource.Designer.dll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\R.cs.flag
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.GeneratedMSBuildEditorConfig.editorconfig
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.AssemblyInfoInputs.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.AssemblyInfo.cs
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.csproj.CoreCompileInputs.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\XamlC.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.dll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.pdb
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.genruntimeconfig.cache
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.runtimeconfig.json.bin
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\byajhissab.byajhissab.apk
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\base.zip
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\byajhissab.byajhissab.aab
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\byajhissab.byajhissab.apks
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\res\values\colors.xml
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\R.txt
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\uploadflags.txt
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resolvedassemblies.hash
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.armeabi-v7a.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.arm64-v8a.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.x86.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.x86_64.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\AndroidManifest.xml
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\AndroidManifest.xml
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\MonoRuntimeProvider.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\JavaInteropTypeManager.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\assets\machine.config
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\mono.android.jar
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\static.flag
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\__environment__.txt
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\buildid.txt
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.armeabi-v7a.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.arm64-v8a.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.x86.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.x86_64.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\activity\ktx\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\activity\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\annotation\experimental\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\resources\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\arch\core\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\browser\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\cardview\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\constraintlayout\widget\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\coordinatorlayout\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\core\ktx\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\core\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\cursoradapter\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\customview\poolingcontainer\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\customview\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\documentfile\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\drawerlayout\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\dynamicanimation\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\emoji2\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\emoji2\viewsintegration\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\exifinterface\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\fragment\ktx\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\fragment\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\interpolator\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\legacy\coreutils\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\ktx\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\livedata\core\ktx\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\livedata\core\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\livedata\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\process\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\runtime\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\viewmodel\ktx\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\viewmodel\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\viewmodel\savedstate\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\loader\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\localbroadcastmanager\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\navigation\common\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\navigation\fragment\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\navigation\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\navigation\ui\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\print\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\profileinstaller\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\recyclerview\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\savedstate\ktx\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\savedstate\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\security\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\slidingpanelayout\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\startup\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\swiperefreshlayout\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\tracing\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\transition\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\vectordrawable\animated\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\vectordrawable\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\versionedparcelable\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\viewpager2\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\viewpager\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\window\extensions\core\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\window\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\com\bumptech\glide\gifdecoder\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\com\bumptech\glide\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\com\google\android\material\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\com\microsoft\maui\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640a8d9a12ddbf2cf2\DeviceDisplayImplementation_Listener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640a8d9a12ddbf2cf2\EnergySaverBroadcastReceiver.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ContainerView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\CustomFrameLayout.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\RecyclerViewContainer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ScrollLayoutManager.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellContentFragment.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutLayout.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter_ShellLinearLayout.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutTemplatedContentRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFragmentContainer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFragmentStateAdapter.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellItemRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellItemRendererBase.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellPageContainer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSearchView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter_CustomFilter.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter_ObjectWrapper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSearchView_ClipDrawableWrapper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSectionRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSectionRenderer_ViewPagerPageChanged.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellToolbarTracker.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64159f3caeb1269279\MauiDrawingView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64159f3caeb1269279\MauiPopup.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64159f3caeb1269279\MauiSemanticOrderView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6423c9088303320609\MainActivity.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\ColorChangeRevealDrawable.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\ControlsAccessibilityDelegate.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\DragAndDropGestureHandler.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\DragAndDropGestureHandler_CustomLocalStateData.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\FragmentContainer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\GenericAnimatorListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\GenericGlobalLayoutListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\GenericMenuClickListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\GradientStrokeDrawable.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\InnerGestureListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\InnerScaleListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\MauiViewPager.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\ModalNavigationManager_ModalContainer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\ModalNavigationManager_ModalContainer_ModalFragment.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\MultiPageFragmentStateAdapter_1.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\PointerGestureHandler.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\TapAndPanGestureDetector.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\ToolbarExtensions_ToolbarTitleIconImageView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc643f2b18b2570eaa5a\PlatformGraphicsView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\AccessibilityDelegateCompatWrapper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\BorderDrawable.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\ContainerView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\ContentViewGroup.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\FragmentManagerExtensions_CallBacks.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\LayoutViewGroup.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\LocalizedDigitsKeyListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiAccessibilityDelegateCompat.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiAppCompatEditText.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiBoxView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiDatePicker.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiHorizontalScrollView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiMaterialButton.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiMaterialButton_MauiResizableDrawable.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiPageControl.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiPageControl_TEditClickListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiPicker.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiPickerBase.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiScrollView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiSearchView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiShapeView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiStepper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiSwipeRefreshLayout.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiSwipeView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiTextView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiTimePicker.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiWebChromeClient.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiWebView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiWebViewClient.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\NavigationRootManager_ElementBasedFragment.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\NavigationViewFragment.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\PlatformTouchGraphicsView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\ScopedFragment.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\StackNavigationManager_Callbacks.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\StepperHandlerHolder.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\StepperHandlerManager_StepperListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\SwipeViewPager.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\ViewFragment.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\WebViewExtensions_JavascriptResult.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\WrapperView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\CarouselSpacingItemDecoration.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\CarouselViewAdapter_2.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\CarouselViewOnScrollListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\CenterSnapHelper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\DataChangeObserver.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\EdgeSnapHelper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\EmptyViewAdapter.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\EndSingleSnapHelper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\EndSnapHelper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\GridLayoutSpanSizeLookup.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\GroupableItemsViewAdapter_2.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\ItemContentView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\ItemsViewAdapter_2.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\MauiCarouselRecyclerView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\MauiCarouselRecyclerView_CarouselViewOnGlobalLayoutListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\MauiRecyclerView_3.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\NongreedySnapHelper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\NongreedySnapHelper_InitialScrollListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\PositionalSmoothScroller.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\RecyclerViewScrollListener_2.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\ReorderableItemsViewAdapter_2.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\ScrollHelper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SelectableItemsViewAdapter_2.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SelectableViewHolder.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SimpleItemTouchHelperCallback.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SimpleViewHolder.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SingleSnapHelper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SizedItemContentView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SpacingItemDecoration.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\StartSingleSnapHelper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\StartSnapHelper.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\StructuredItemsViewAdapter_2.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\TemplatedItemViewHolder.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\TextViewHolder.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\NativeViewWrapperRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\PlatformRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\Platform_DefaultRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\ViewRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\ViewRenderer_2.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\VisualElementRenderer_1.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\VisualElementTracker_AttachTracker.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\ImageLoaderCallback.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\ImageLoaderCallbackBase_1.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\ImageLoaderResultCallback.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\MauiAppCompatActivity.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\MauiApplication.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\MauiApplication_ActivityLifecycleCallbacks.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc649ff77a65592e7d55\TabbedPageManager_Listeners.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc649ff77a65592e7d55\TabbedPageManager_TempView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64a096dc44ad241142\PlatformTicker_DurationScaleListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64b5e713d400f589b7\LinearGradientShaderFactory.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64b5e713d400f589b7\MauiDrawable.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64b5e713d400f589b7\RadialGradientShaderFactory.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64ba438d8f48cf7e75\ActivityLifecycleContextListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\BaseCellView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\CellAdapter.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\CellRenderer_RendererHolder.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ConditionalFocusLayout.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\EntryCellEditText.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\EntryCellView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\FrameRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\GroupedListViewAdapter.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewAdapter.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewRenderer_Container.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewRenderer_ListViewScrollDetector.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewRenderer_ListViewSwipeRefreshLayoutListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\SwitchCellView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\TableViewModelRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\TableViewRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\TextCellRenderer_TextCellView.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ViewRenderer.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ViewRenderer_2.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\VisualElementRenderer_1.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64f728827fec74e9c3\TapWindowTracker_GestureListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64f728827fec74e9c3\Toolbar_Container.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\ButtonHandler_ButtonClickListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\ButtonHandler_ButtonTouchListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\SearchBarHandler_FocusChangeListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\SliderHandler_SeekBarChangeListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\SwitchHandler_CheckedChangeListener.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\ToolbarHandler_ProcessBackClick.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64ff13d3dc68269e63\MainApplication.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\microsoft\maui\platform\MauiNavHostFragment.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\android\app\ApplicationRegistration.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\appbar\AppBarLayout_LiftOnScrollListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\checkbox\MaterialCheckBox_OnCheckedStateChangedListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\checkbox\MaterialCheckBox_OnErrorChangedListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\MonoPackageManager_Resources.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\packaged_resources
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\byajhissab\byajhissab\R.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\_CompileJava.FileList.txt
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.armeabi-v7a.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.arm64-v8a.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.x86.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.x86_64.ll
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.armeabi-v7a.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.arm64-v8a.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.x86.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.x86_64.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.armeabi-v7a.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.arm64-v8a.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.x86.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.x86_64.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.armeabi-v7a.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.arm64-v8a.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.x86.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.x86_64.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\marshal_methods.armeabi-v7a.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\marshal_methods.arm64-v8a.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\marshal_methods.x86.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\marshal_methods.x86_64.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\jni_remap.armeabi-v7a.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\jni_remap.arm64-v8a.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\jni_remap.x86.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\jni_remap.x86_64.o
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\app_shared_libraries\x86\libxamarin-app.so
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\app_shared_libraries\x86_64\libxamarin-app.so
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\classes.dex
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\classes2.dex
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_CleanIntermediateIfNeeded.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_CompileJava.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_CompileToDalvik.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_ConvertCustomView.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_ConvertResourcesCases.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_GenerateJavaStubs.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_GeneratePackageManagerJava.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_ResolveLibraryProjectImports.stamp
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\camera.png
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64ba438d8f48cf7e75\IntermediateActivity.java
+E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\microsoft\maui\essentials\fileProvider.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\BYAJHISSAB.runtimeconfig.json
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\BYAJHISSAB.dll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\BYAJHISSAB.pdb
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\byajhissab.byajhissab.apk
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\byajhissab.byajhissab.aab
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\byajhissab.byajhissab-Signed.aab
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\byajhissab.byajhissab-Signed.apk
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\bin\Release\net8.0-android34.0\byajhissab.byajhissab-Signed.apk.idsig
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\build.props
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\adb.props
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\_CompileBindingJava.FileList.txt
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.csproj.AssemblyReference.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauiimage.inputs
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauifont.inputs
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauisplash.inputs
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\sp\drawable-v31\maui_splash_image.xml
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\sp\drawable\logo.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\sp\drawable\maui_splash_image.xml
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\sp\values\maui_colors.xml
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauisplash.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauifont.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\f\OpenSans-Regular.ttf
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\f\OpenSans-Semibold.ttf
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\addfile.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\alarm.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\arrowdown.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\arrowup.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\avatar.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\bg.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\book.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\camera.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\clock_icon.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\contact.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\dotnet_bot.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\download.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\email.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\home.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\information.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\lock.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\menual.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\phone.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\plusicon.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\search_icon.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\topbackgroud.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\topimage.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\drawable\user.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-anydpi-v26\logo.xml
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-anydpi-v26\logo_round.xml
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-hdpi\logo.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-hdpi\logo_background.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-hdpi\logo_foreground.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-hdpi\logo_round.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-mdpi\logo.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-mdpi\logo_background.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-mdpi\logo_foreground.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-mdpi\logo_round.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xhdpi\logo.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xhdpi\logo_background.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xhdpi\logo_foreground.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xhdpi\logo_round.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxhdpi\logo.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxhdpi\logo_background.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxhdpi\logo_foreground.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxhdpi\logo_round.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxxhdpi\logo.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxxhdpi\logo_background.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxxhdpi\logo_foreground.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\r\mipmap-xxxhdpi\logo_round.png
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauiimage.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\mauiimage.outputs
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\libraryprojectimports.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_BuildLibraryImportsCache.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\case_map.txt
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\__Microsoft.Android.Resource.Designer.cs
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\res.flag
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\C4D2D85887AD60AD-files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resizetizer\92BCC98D968E7FAB-files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\93\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\94\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\95\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\96\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\97\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\99\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\100\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\103\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\104\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\105\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\106\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\107\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\108\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\110\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\111\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\112\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\113\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\116\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\118\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\119\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\122\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\123\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\125\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\127\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\128\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\129\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\130\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\131\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\132\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\133\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\134\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\135\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\136\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\137\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\138\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\139\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\140\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\141\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\142\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\143\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\144\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\145\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\146\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\147\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\148\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\150\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\152\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\155\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\156\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\157\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\158\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\lp\159\jl\files.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\R.txt
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\_Microsoft.Android.Resource.Designer.dll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\R.cs.flag
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.GeneratedMSBuildEditorConfig.editorconfig
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.AssemblyInfoInputs.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.AssemblyInfo.cs
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.csproj.CoreCompileInputs.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\XamlC.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.dll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.pdb
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.genruntimeconfig.cache
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\BYAJHISSAB.runtimeconfig.json.bin
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\byajhissab.byajhissab.apk
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\base.zip
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\byajhissab.byajhissab.aab
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\byajhissab.byajhissab.apks
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\res\values\colors.xml
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\uploadflags.txt
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\resolvedassemblies.hash
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.armeabi-v7a.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.arm64-v8a.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.x86.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.x86_64.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\AndroidManifest.xml
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\AndroidManifest.xml
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\MonoRuntimeProvider.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\JavaInteropTypeManager.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\assets\machine.config
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\mono.android.jar
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\static.flag
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\__environment__.txt
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\buildid.txt
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.armeabi-v7a.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.arm64-v8a.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.x86.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.x86_64.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\activity\ktx\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\activity\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\annotation\experimental\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\resources\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\arch\core\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\browser\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\cardview\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\constraintlayout\widget\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\coordinatorlayout\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\core\ktx\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\core\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\cursoradapter\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\customview\poolingcontainer\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\customview\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\documentfile\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\drawerlayout\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\dynamicanimation\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\emoji2\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\emoji2\viewsintegration\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\exifinterface\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\fragment\ktx\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\fragment\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\interpolator\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\legacy\coreutils\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\ktx\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\livedata\core\ktx\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\livedata\core\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\livedata\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\process\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\runtime\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\viewmodel\ktx\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\viewmodel\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\lifecycle\viewmodel\savedstate\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\loader\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\localbroadcastmanager\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\navigation\common\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\navigation\fragment\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\navigation\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\navigation\ui\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\print\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\profileinstaller\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\recyclerview\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\savedstate\ktx\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\savedstate\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\security\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\slidingpanelayout\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\startup\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\swiperefreshlayout\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\tracing\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\transition\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\vectordrawable\animated\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\vectordrawable\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\versionedparcelable\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\viewpager2\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\viewpager\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\window\extensions\core\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\androidx\window\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\com\bumptech\glide\gifdecoder\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\com\bumptech\glide\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\com\google\android\material\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\com\microsoft\maui\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640a8d9a12ddbf2cf2\DeviceDisplayImplementation_Listener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640a8d9a12ddbf2cf2\EnergySaverBroadcastReceiver.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ContainerView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\CustomFrameLayout.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\RecyclerViewContainer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ScrollLayoutManager.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellContentFragment.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutLayout.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter_ShellLinearLayout.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutTemplatedContentRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFragmentContainer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellFragmentStateAdapter.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellItemRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellItemRendererBase.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellPageContainer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSearchView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter_CustomFilter.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter_ObjectWrapper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSearchView_ClipDrawableWrapper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSectionRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellSectionRenderer_ViewPagerPageChanged.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellToolbarTracker.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc640ec207abc449b2ca\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64159f3caeb1269279\MauiDrawingView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64159f3caeb1269279\MauiPopup.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64159f3caeb1269279\MauiSemanticOrderView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6423c9088303320609\MainActivity.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\ColorChangeRevealDrawable.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\ControlsAccessibilityDelegate.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\DragAndDropGestureHandler.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\DragAndDropGestureHandler_CustomLocalStateData.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\FragmentContainer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\GenericAnimatorListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\GenericGlobalLayoutListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\GenericMenuClickListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\GradientStrokeDrawable.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\InnerGestureListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\InnerScaleListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\MauiViewPager.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\ModalNavigationManager_ModalContainer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\ModalNavigationManager_ModalContainer_ModalFragment.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\MultiPageFragmentStateAdapter_1.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\PointerGestureHandler.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\TapAndPanGestureDetector.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64338477404e88479c\ToolbarExtensions_ToolbarTitleIconImageView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc643f2b18b2570eaa5a\PlatformGraphicsView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\AccessibilityDelegateCompatWrapper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\BorderDrawable.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\ContainerView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\ContentViewGroup.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\FragmentManagerExtensions_CallBacks.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\LayoutViewGroup.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\LocalizedDigitsKeyListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiAccessibilityDelegateCompat.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiAppCompatEditText.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiBoxView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiDatePicker.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiHorizontalScrollView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiMaterialButton.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiMaterialButton_MauiResizableDrawable.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiPageControl.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiPageControl_TEditClickListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiPicker.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiPickerBase.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiScrollView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiSearchView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiShapeView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiStepper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiSwipeRefreshLayout.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiSwipeView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiTextView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiTimePicker.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiWebChromeClient.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiWebView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\MauiWebViewClient.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\NavigationRootManager_ElementBasedFragment.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\NavigationViewFragment.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\PlatformTouchGraphicsView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\ScopedFragment.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\StackNavigationManager_Callbacks.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\StepperHandlerHolder.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\StepperHandlerManager_StepperListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\SwipeViewPager.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\ViewFragment.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\WebViewExtensions_JavascriptResult.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6452ffdc5b34af3a0f\WrapperView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\CarouselSpacingItemDecoration.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\CarouselViewAdapter_2.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\CarouselViewOnScrollListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\CenterSnapHelper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\DataChangeObserver.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\EdgeSnapHelper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\EmptyViewAdapter.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\EndSingleSnapHelper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\EndSnapHelper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\GridLayoutSpanSizeLookup.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\GroupableItemsViewAdapter_2.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\ItemContentView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\ItemsViewAdapter_2.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\MauiCarouselRecyclerView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\MauiCarouselRecyclerView_CarouselViewOnGlobalLayoutListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\MauiRecyclerView_3.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\NongreedySnapHelper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\NongreedySnapHelper_InitialScrollListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\PositionalSmoothScroller.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\RecyclerViewScrollListener_2.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\ReorderableItemsViewAdapter_2.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\ScrollHelper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SelectableItemsViewAdapter_2.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SelectableViewHolder.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SimpleItemTouchHelperCallback.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SimpleViewHolder.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SingleSnapHelper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SizedItemContentView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\SpacingItemDecoration.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\StartSingleSnapHelper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\StartSnapHelper.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\StructuredItemsViewAdapter_2.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\TemplatedItemViewHolder.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc645d80431ce5f73f11\TextViewHolder.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\NativeViewWrapperRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\PlatformRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\Platform_DefaultRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\ViewRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\ViewRenderer_2.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\VisualElementRenderer_1.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6477f0d89a9cfd64b1\VisualElementTracker_AttachTracker.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\ImageLoaderCallback.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\ImageLoaderCallbackBase_1.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\ImageLoaderResultCallback.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\MauiAppCompatActivity.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\MauiApplication.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc6488302ad6e9e4df1a\MauiApplication_ActivityLifecycleCallbacks.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc649ff77a65592e7d55\TabbedPageManager_Listeners.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc649ff77a65592e7d55\TabbedPageManager_TempView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64a096dc44ad241142\PlatformTicker_DurationScaleListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64b5e713d400f589b7\LinearGradientShaderFactory.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64b5e713d400f589b7\MauiDrawable.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64b5e713d400f589b7\RadialGradientShaderFactory.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64ba438d8f48cf7e75\ActivityLifecycleContextListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64ba438d8f48cf7e75\IntermediateActivity.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\BaseCellView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\CellAdapter.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\CellRenderer_RendererHolder.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ConditionalFocusLayout.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\EntryCellEditText.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\EntryCellView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\FrameRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\GroupedListViewAdapter.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewAdapter.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewRenderer_Container.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewRenderer_ListViewScrollDetector.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewRenderer_ListViewSwipeRefreshLayoutListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\SwitchCellView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\TableViewModelRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\TableViewRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\TextCellRenderer_TextCellView.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ViewRenderer.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\ViewRenderer_2.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64e1fb321c08285b90\VisualElementRenderer_1.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64f728827fec74e9c3\TapWindowTracker_GestureListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64f728827fec74e9c3\Toolbar_Container.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\ButtonHandler_ButtonClickListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\ButtonHandler_ButtonTouchListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\SearchBarHandler_FocusChangeListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\SliderHandler_SeekBarChangeListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\SwitchHandler_CheckedChangeListener.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64fcf28c0e24b4cc31\ToolbarHandler_ProcessBackClick.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\crc64ff13d3dc68269e63\MainApplication.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\microsoft\maui\essentials\fileProvider.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\microsoft\maui\platform\MauiNavHostFragment.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\android\app\ApplicationRegistration.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\appbar\AppBarLayout_LiftOnScrollListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\checkbox\MaterialCheckBox_OnCheckedStateChangedListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\checkbox\MaterialCheckBox_OnErrorChangedListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\mono\MonoPackageManager_Resources.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\packaged_resources
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\src\byajhissab\byajhissab\R.java
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\_CompileJava.FileList.txt
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.armeabi-v7a.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.arm64-v8a.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.x86.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.x86_64.ll
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.armeabi-v7a.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.arm64-v8a.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.x86.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\typemaps.x86_64.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.armeabi-v7a.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.arm64-v8a.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.x86.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\environment.x86_64.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.armeabi-v7a.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.arm64-v8a.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.x86.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\compressed_assemblies.x86_64.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\marshal_methods.armeabi-v7a.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\marshal_methods.arm64-v8a.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\marshal_methods.x86.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\marshal_methods.x86_64.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\jni_remap.armeabi-v7a.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\jni_remap.arm64-v8a.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\jni_remap.x86.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\jni_remap.x86_64.o
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\app_shared_libraries\arm64-v8a\libxamarin-app.so
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\app_shared_libraries\x86\libxamarin-app.so
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\app_shared_libraries\x86_64\libxamarin-app.so
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\classes.dex
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\android\bin\classes2.dex
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_CleanIntermediateIfNeeded.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_CompileJava.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_CompileToDalvik.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_ConvertCustomView.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_ConvertResourcesCases.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_GenerateJavaStubs.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_GeneratePackageManagerJava.stamp
+E:\PERSONAL FIELS\KHATA-BOOK\App\27-10-2024 Update\BYAJHISSAB\BYAJHISSAB\BYAJHISSAB\obj\Release\net8.0-android34.0\stamp\_ResolveLibraryProjectImports.stamp

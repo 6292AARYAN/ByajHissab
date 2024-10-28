@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             x:Class="BYAJHISSAB.Emi"
+             Title="Emi" Shell.BackgroundColor="AliceBlue">
+    <StackLayout Padding="0">
+        <!-- Frame containing the main content -->
+
+        <!-- Title label 
+        <Label Text="Loan Type" 
+                FontSize="Large" 
+                FontAttributes="Bold" 
+                HorizontalOptions="Center"
+                Margin="0,10,0,20" /> -->
+        <Frame BackgroundColor="AliceBlue" Padding="15,25" CornerRadius="0" BorderColor="#fff">
+            <!-- Grid to arrange the buttons -->
+            <Grid >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Button 1: From Contact -->
+                <Button Grid.Row="0" Grid.Column="0"
+         Text="With Intrest"
+       
+FontAttributes="Bold"
+         BackgroundColor="#2b0098"
+         CornerRadius="10"
+         HeightRequest="60"
+         WidthRequest="180"
+         ImageSource="Images/contact.png" Clicked="Button_Clicked" />
+
+                <!-- Button 2: Enter Manual -->
+                <Button Grid.Row="0" Grid.Column="1"
+         Text="EMI Collection"
+         
+FontAttributes="Bold"
+BackgroundColor="#f4c355"
+         CornerRadius="10"
+         HeightRequest="60"
+         WidthRequest="175"
+         ImageSource="Images/contact.png" Clicked="Button_Clicked_1" />
+
+
+                <StackLayout Grid.Row="1" Grid.ColumnSpan="2" Orientation="Vertical" HorizontalOptions="FillAndExpand" Padding="0">
+                    <Frame BackgroundColor="Transparent" BorderColor="#b4b4b4" Padding="0" Margin="0,15,0,0" HorizontalOptions="FillAndExpand" CornerRadius="5">
+                        <StackLayout Orientation="Horizontal">
+
+                            <Entry Placeholder="With Intrest" FontSize="18" PlaceholderColor="#000" FontAttributes="Bold" VerticalOptions="FillAndExpand" Margin="5"/>
+                        </StackLayout>
+                    </Frame>
+                    <Label  Text="Rate of Intrest" HorizontalOptions="FillAndExpand" FontSize="18" FontAttributes="Bold" Padding="0,15,15,0"/>
+
+                    <Frame BackgroundColor="Transparent" BorderColor="#b4b4b4" Padding="10,5" Margin="0,10,0,0" HorizontalOptions="FillAndExpand" CornerRadius="5">
+                        <StackLayout Orientation="Horizontal" >
+
+
+                            <Picker x:Name="DropdownPicker" TextColor="#b4b4b4"  FontSize="18" FontAttributes="Bold" 
+                             Title="Per Month"      
+                             HorizontalOptions="FillAndExpand">
+                                <Picker.ItemsSource>
+                                    <x:Array Type="{x:Type x:String}">
+                                        <x:String>3%</x:String>
+                                        <x:String>5%</x:String>
+                                        <x:String>7%</x:String>
+                                        <x:String>10%</x:String>
+                                    </x:Array>
+                                </Picker.ItemsSource>
+                            </Picker>
+                        </StackLayout>
+                    </Frame>
+                    <Frame BackgroundColor="Transparent" BorderColor="#b4b4b4" Padding="0" Margin="0,10,0,0" HorizontalOptions="FillAndExpand" CornerRadius="5">
+                        <StackLayout Orientation="Horizontal">
+
+                            <Entry Placeholder="Total Amount" FontSize="18" PlaceholderColor="#000" TextColor="Black" FontAttributes="Bold" VerticalOptions="FillAndExpand" Margin="5"/>
+                        </StackLayout>
+                    </Frame>
+                    <Frame BackgroundColor="Transparent" BorderColor="#b4b4b4" Padding="10,5" Margin="0,10,0,0" HorizontalOptions="FillAndExpand" CornerRadius="5">
+                        <StackLayout Orientation="Horizontal">
+
+                            <!-- DatePicker control -->
+                            <DatePicker x:Name="MyDatePicker" TextColor="#000"  FontSize="18" FontAttributes="Bold"
+                 MinimumDate="2000-01-01"
+                 MaximumDate="2050-12-31"
+                 Date="{x:Static sys:DateTime.Now}"
+                 Format="D"/>
+                        </StackLayout>
+                    </Frame>
+                    <Button Text="Save Account" FontSize="18" BackgroundColor="#2b0098" TextColor="White" FontAttributes="Bold" CornerRadius="10"  Margin="0,10" Padding="20"  />
+
+                </StackLayout>
+
+                <StackLayout Grid.Row="2" Grid.ColumnSpan="2" Padding="20" VerticalOptions="CenterAndExpand" HorizontalOptions="Center">
+
+                    <!-- Button to capture photo -->
+                    <Button 
+                      FontAttributes="Bold"
+                         BackgroundColor="#fff"
+                      TextColor="White"
+                      VerticalOptions="CenterAndExpand"
+                      HorizontalOptions="Center"
+                      ImageSource="Images/camera.png"
+                      Clicked="OnCapturePhotoButtonClicked" />
+
+                    <!-- Image control to display the captured photo -->
+                    <Image x:Name="CapturedImage"
+                     Aspect="AspectFit"
+                     VerticalOptions="CenterAndExpand"
+                     HorizontalOptions="Center"
+                     WidthRequest="200"
+                     HeightRequest="200" />
+                </StackLayout>
+
+
+            </Grid>
+
+        </Frame>
+
+    </StackLayout>
+</ContentPage>

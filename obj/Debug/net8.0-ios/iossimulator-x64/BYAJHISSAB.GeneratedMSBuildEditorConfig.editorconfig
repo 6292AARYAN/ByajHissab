@@ -1,0 +1,89 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BYAJHISSAB
+build_property.ProjectDir = E:\gip\2023\MobileApplication\BYAJHISSAB\BYAJHISSAB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/ForgotPasswordPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ForgotPasswordPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ForgotPasswordPage.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/Lent.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Lent.xaml
+build_metadata.AdditionalFiles.TargetPath = Lent.xaml
+build_metadata.AdditionalFiles.RelativePath = Lent.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/LoginPassword.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.LoginPassword.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPassword.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPassword.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/OTP.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.OTP.xaml
+build_metadata.AdditionalFiles.TargetPath = OTP.xaml
+build_metadata.AdditionalFiles.RelativePath = OTP.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/Peaple.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Peaple.xaml
+build_metadata.AdditionalFiles.TargetPath = Peaple.xaml
+build_metadata.AdditionalFiles.RelativePath = Peaple.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[E:/gip/2023/MobileApplication/BYAJHISSAB/BYAJHISSAB/Signup.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BYAJHISSAB.Signup.xaml
+build_metadata.AdditionalFiles.TargetPath = Signup.xaml
+build_metadata.AdditionalFiles.RelativePath = Signup.xaml

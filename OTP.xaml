@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BYAJHISSAB.OTP"
+             Title="OTP" 
+             Shell.FlyoutBehavior="Disabled" Shell.NavBarIsVisible="False">
+    <Grid BackgroundColor="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid RowSpacing="5" Grid.Row="1" Margin="20,0,20,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="90"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="1" Text="Login" HorizontalOptions="FillAndExpand" FontSize="38" FontAttributes="Bold" Padding="0"/>
+            <Label Grid.Row="2" Text="Enter the 6-digit code sent to your mobile number" HorizontalOptions="FillAndExpand" FontSize="20" />
+            <Label Grid.Row="3" Text="OTP" FontAttributes="Bold" HorizontalOptions="FillAndExpand" FontSize="22" Padding="5" />
+            <StackLayout Grid.Row="4" Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                <Frame BackgroundColor="Transparent" BorderColor="Black" Padding="10" HorizontalOptions="FillAndExpand" CornerRadius="5">
+                    <StackLayout Orientation="Horizontal">
+
+                        <Entry Placeholder="Enter OTP" PlaceholderColor="Black"  TextColor="Black" FontAttributes="Bold" VerticalOptions="FillAndExpand" Margin="0"/>
+                    </StackLayout>
+                </Frame>
+
+                <Button Text="Submit" FontSize="20" BackgroundColor="#0e79e3" TextColor="White" FontAttributes="Bold" Padding="15" CornerRadius="20" WidthRequest="300" Margin="10,15,0,0" Clicked="Button_Clicked" />
+                <StackLayout Orientation="Horizontal" Margin="10,20,0,0" Padding="0">
+                    <Label Text="Login" TextColor="Black" FontAttributes="Bold" FontSize="18" VerticalTextAlignment="Center"  HorizontalOptions="Center">
+                    </Label>
+                    <Label Text="Register" TextColor="Blue" FontAttributes="Bold" FontSize="18" HorizontalOptions="EndAndExpand" VerticalTextAlignment="Center" HorizontalTextAlignment="Center">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"/>
+                        </Label.GestureRecognizers>
+                    </Label>
+                </StackLayout>
+            </StackLayout>
+
+        </Grid>
+    </Grid>
+</ContentPage>

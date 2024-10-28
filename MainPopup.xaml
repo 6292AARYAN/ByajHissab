@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <toolkit:Popup
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+    x:Class="BYAJHISSAB.MainPopup"
+    Size="300,300" CanBeDismissedByTappingOutsideOfPopup="True" 
+    >
+
+    <!-- Popup Main Layout -->
+    <Frame BackgroundColor="White" CornerRadius="10" Padding="0,80" Margin="0"
+           VerticalOptions="Center" HorizontalOptions="Center"
+           WidthRequest="280" HasShadow="True">
+        <!-- Animated Popup Content -->
+        <VerticalStackLayout Spacing="20" HorizontalOptions="Center">
+
+            <!-- Close Button -->
+            <Button Text="Borrowed"
+                    TextColor="White" 
+                    BackgroundColor="#2b0098"
+                    CornerRadius="20"
+                    FontSize="16"
+                    Command="{Binding ClosePopupCommand}" 
+                    WidthRequest="200"
+                    HorizontalOptions="Center" Clicked="Button_Clicked"/>
+            <Button Text="Lent"
+                 TextColor="White" 
+                 BackgroundColor="#2b0098"
+                 CornerRadius="20"
+                 FontSize="16"
+                 Command="{Binding ClosePopupCommand}" 
+                 WidthRequest="200"
+                 HorizontalOptions="Center" Clicked="Button_Clicked_1"/>
+        </VerticalStackLayout>
+    </Frame>
+
+</toolkit:Popup>
